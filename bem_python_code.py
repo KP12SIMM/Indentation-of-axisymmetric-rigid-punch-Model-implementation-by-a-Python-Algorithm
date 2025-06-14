@@ -1,7 +1,7 @@
 
 Created on 08/10/2020
 
-@author: krupal Patel & Etienne Barthel
+@author: krupal Patel & Rémy Brossard & Etienne Barthel
 """
 
 from math import pi,exp,floor
